@@ -1,4 +1,4 @@
-# esempio_phishing
+# esempio_phishing per ricerca scolastica
 Esempio di phishing per presentazione
 
 Esempio di phishing online attraverso la raccolta di dati di accesso da una finta pagina di login di facebook. 
